@@ -26,7 +26,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: __Username Enumeration
 
-Vulnerability #2: __________________
+Vulnerability #2: __XSS
 
 
 ## Red
