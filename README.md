@@ -24,7 +24,7 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __Username Enumeration
+Vulnerability #1: __Username Enumeration : https://github.com/EdgarAllenFro/Week-8-lab/blob/master/username_enum.gif : a correct username results in bold text while incorrect usernames result in non-bold text.
 
 Vulnerability #2: __XSS
 
