@@ -26,7 +26,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: __Username Enumeration : https://github.com/EdgarAllenFro/Week-8-lab/blob/master/username_enum.gif : a correct username results in bold text while incorrect usernames result in non-bold text.
 
-Vulnerability #2: __XSS
+Vulnerability #2: __XSS : https://github.com/EdgarAllenFro/Week-8-lab/blob/master/xss_week8.gif : putting a xss in the feedback area for the name of the individual giving the feedback will result in a xss activating.
 
 
 ## Red
