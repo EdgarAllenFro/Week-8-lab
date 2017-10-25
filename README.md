@@ -31,7 +31,7 @@ Vulnerability #2: __XSS
 
 ## Red
 
-Vulnerability #1: __IDOR
+Vulnerability #1: __IDOR : https://github.com/EdgarAllenFro/Week-8-lab/blob/master/idor_week8.gif : changing the id in the url can result in a user that is not meant to be displayed.
 
 Vulnerability #2: __________________
 
