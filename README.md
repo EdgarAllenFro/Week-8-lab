@@ -17,7 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __SQLi
+Vulnerability #1: __SQLi : https://github.com/EdgarAllenFro/Week-8-lab/blob/master/sqli_week8.gif : running sqlmap proves that the blue site is vulnerable through the php?id=x field of the salesperson pages.
 
 Vulnerability #2: __________________
 
